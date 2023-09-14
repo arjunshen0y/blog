@@ -24,7 +24,7 @@ export default function Projects() {
                 title={d.title}
                 description={d.description}
                 imgSrc={d.imgSrc} 
-                href={undefined}              
+                href={d.href}              
               />
             ))}
           </div>
