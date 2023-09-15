@@ -1,22 +1,23 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Arjun Portfolio',
+  // title: 'Arjun Portfolio',
   author: 'Arjun K Shenoy',
-  headerTitle: 'Hello!',
-  description: 'A blog created with Next.js and Tailwind.css',
+  // headerTitle: 'Hello!',
+  // description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '/static/images/logo.png',
+  siteLogo: '/static/images/logos.png',
   socialBanner: '/static/images/twitter-card.png',
   mastodon: 'https://mastodon.social/@pn3uma',
   email: 'arjunshenoy23@gmail.com',
   github: 'https://github.com/arjunshen0y',
   twitter: 'https://twitter.com/holidaygarlic',
   // facebook: 'https://facebook.com',
-  // youtube: 'https://youtube.com',
+  youtube: 'https://www.youtube.com/@arjunshenoy23/featured',
   linkedin: 'https://www.linkedin.com/in/arjunshenoy23',
+  soundcloud: 'https://on.soundcloud.com/9S5k1',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
